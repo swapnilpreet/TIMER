@@ -1,0 +1,18 @@
+.input{
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.btn{
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 5px;
+    width: 100px;
+    margin-top: 20px;
+    background-color: rgb(68, 40, 224);
+    color: white;
+    font-size: 20px;
+}
+.time{
+    font-size: 50px;
+}
